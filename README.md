@@ -1,7 +1,7 @@
 # Assignment-1-
 Registration and Login system using Python, file handling
 
-Here I created an empty dictionary and and dumped using pickle.
+Here I created an empty dictionary and dumped it using pickle.
 
 if the user chooses to register it will validate the details and append the details to the file.
 
