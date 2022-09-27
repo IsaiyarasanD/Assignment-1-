@@ -1,5 +1,6 @@
 # Assignment-1-
 Registration and Login system using Python, file handling
+
 Here I created an empty dictionary and and dumped using pickle.
 if the user chooses to register it will validate the details and append the details to the file.
 if the user chooses to login: if the user gave valid credentials login will be successful.
